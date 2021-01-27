@@ -7,8 +7,6 @@ I am a PhD student in environmental engineering at the [University of Tennessee,
 * remote sensing of water clarity
 * measurement model fusion
 
-![](https://imgur.com/GAlozfF.PNG)
-
 <!--
 **HJRubin/HJRubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
