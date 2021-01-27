@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm a PhD student in environmental engineering at the University of Tennessee, Knoxville.
+My interests include the environmental applications of GIS and combining in situ measurements with remote sensing to improve climate models. 
 <!--
 **HJRubin/HJRubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
