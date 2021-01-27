@@ -1,5 +1,7 @@
+## Hannah Rubin
+I am a PhD student in environmental engineering at the [University of Tennessee, Knoxville](https://utk.edu/). I graduated from [Dartmouth College](https://home.dartmouth.edu/) in 2020 with a BA in earth science and geography. Check out my research group's [page](http://acs.engr.utk.edu/).
+
 ### Hi there 👋
-I'm a PhD student in environmental engineering at the University of Tennessee, Knoxville.
 My interests include the environmental applications of GIS and combining in situ measurements with remote sensing to improve climate models. 
 <!--
 **HJRubin/HJRubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
