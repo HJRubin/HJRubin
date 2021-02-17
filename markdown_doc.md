@@ -29,6 +29,7 @@ Now click the polygon tool at the top left of the map view. Try to trace the out
 * Colorado
 * Wyoming
 * North Dakota
+
 When you finish tracing your state, click back on the first point to finish creating your geometry import. Now you'll see a box pop up with the geometry you just drew.
 
 ![](https://i.imgur.com/Cgc9hVC.png)
@@ -40,8 +41,9 @@ Select the settings option (the little gear) and name your shape whatever you'd 
 
 Now you have empty script with one import. Type:
 
-`var feature0 = ee.Feature(Colorado, {'name': 'Colorado'});`
-`Map.addLayer(feature0, {'color': '0000FF'});`
+```var feature0 = ee.Feature(Colorado, {'name': 'Colorado'});
+Map.addLayer(feature0, {'color': '0000FF'});
+```
 
 Now save your script. 
 
@@ -56,8 +58,8 @@ to see the features in the console, where you can investigate the geometry and p
 ## That's it!
 
 Double check that you've saved your script and you can close the window. Now whenever you want to draw some polygons, they'll already be loaded and ready for you.
-For more helpful tips on getting started with **Google Earth Engine** check out Dr. 
+For more helpful tips on getting started with **Google Earth Engine** check out Dr. Wu's tutorials:
 
 <a href="https://www.youtube.com/watch?v=_4o6sbOu5do&ab_channel=QiushengWu" target="_blank">
-<img src="https://www.youtube.com/watch?v=_4o6sbOu5do&ab_channel=QiushengWu/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="" 
+alt="Getting started with Google Earth Engine" width="240" height="180" border="10" /></a>
