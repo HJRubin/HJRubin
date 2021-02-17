@@ -9,7 +9,7 @@ This document will teach you how to:
 
 First, go to [**Google Earth Engine**](https://code.earthengine.google.com/). 
 
-Make sure you first [sign up](earthengine.google.com) for a Google Earth Engine account. You cannot use Google Earth Engine unless your application has been approved and this can take several days to a week. Once you receive the application approval email, you can log in to the Earth Engine Code Editor.
+Make sure you first [sign up](https://earthengine.google.com) for a **Google Earth Engine** account. You cannot use **Google Earth Engine** unless your application has been approved and this can take several days to a week. Once you receive the application approval email, you can log in to the **Earth Engine Code Editor**.
 
 ## New Script
 
@@ -23,6 +23,7 @@ In this example we're looking at the US, so type:
 
 `Map.setCenter(-105.9, 39.0, 5);`
 
+Then save and run your script to zoom to the US.
 ## Draw Polygons
 
 Now click the polygon tool at the top left of the map view. Try to trace the outline of a nice square state, e.g.
@@ -39,7 +40,7 @@ Select the settings option (the little gear) and name your shape whatever you'd 
 
 ## Create your script.
 
-Now you have empty script with one import. Type:
+Now you have an almost empty script with one import. Type:
 
 ```var feature0 = ee.Feature(Colorado, {'name': 'Colorado'});
 Map.addLayer(feature0, {'color': '0000FF'});
@@ -58,7 +59,7 @@ to see the features in the console, where you can investigate the geometry and p
 ## That's it!
 
 Double check that you've saved your script and you can close the window. Now whenever you want to draw some polygons, they'll already be loaded and ready for you.
-For more helpful tips on getting started with **Google Earth Engine** check out Dr. Wu's tutorials:
+For more helpful tips on getting started with **Google Earth Engine** check out Dr. Wu's Youtube tutorials:
 
 <a href="https://www.youtube.com/watch?v=_4o6sbOu5do&ab_channel=QiushengWu" target="_blank">
 <img src="https://i.imgur.com/WGwCox1.jpg" 
