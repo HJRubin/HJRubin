@@ -61,5 +61,5 @@ Double check that you've saved your script and you can close the window. Now whe
 For more helpful tips on getting started with **Google Earth Engine** check out Dr. Wu's tutorials:
 
 <a href="https://www.youtube.com/watch?v=_4o6sbOu5do&ab_channel=QiushengWu" target="_blank">
-<img src="" 
+<img src="https://i.imgur.com/WGwCox1.jpg" 
 alt="Getting started with Google Earth Engine" width="240" height="180" border="10" /></a>
