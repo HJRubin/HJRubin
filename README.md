@@ -1,10 +1,11 @@
 ## Hannah Rubin
-I am a PhD student in environmental engineering at the [University of Tennessee, Knoxville](https://utk.edu/). I graduated from [Dartmouth College](https://home.dartmouth.edu/) in 2020 with a BA in earth science and geography. Check out my research group's [page](http://acs.engr.utk.edu/).
+I am an earth system scientist with a background in GIS, remote sensing, and machine learning. I am passionate about exploring future climate scenarios and applying models to understand climate hazards and the risks to environmental and human health. I recently earned my Ph.D. in environmental engineering from the University of Tennessee, Knoxville, where I worked on developing methods of measurement-model to improve projections of climate variables by incorporating machine learning and remote sensing.
 
 ### Interests
 
 * environmental applications of GIS 
-* remote sensing of water clarity
+* earth system science and future climate scenarios
+* nitrogen and sulfur deposition modeling 
 * measurement model fusion
 
 <!--
